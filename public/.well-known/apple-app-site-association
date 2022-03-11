@@ -1,0 +1,19 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "HDU7SVF3ET.dev.muchobien.ownda",
+        "paths": ["*"]
+      },
+      {
+        "appID": "HDU7SVF3ET.dev.muchobien.ownda-dev",
+        "paths": ["*"]
+      },
+      {
+        "appID": "HDU7SVF3ET.dev.muchobien.ownda-preview",
+        "paths": ["*"]
+      }
+    ]
+  }
+}
